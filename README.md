@@ -1,7 +1,7 @@
 ### Dr Yann Golanski
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-golanski-99199135/)
-| ![View count](https://komarev.com/ghpvc/?username=ygworldr)
+![View count](https://komarev.com/ghpvc/?username=ygworldr)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&color=%23623AE1&size=23&center=true&vCenter=true&lines=Director+of+IT+Security+at+Worldr+technologies)](https://git.io/typing-svg)
 
@@ -27,3 +27,5 @@ robots.
 ![Yann's GitHub statistics](https://github-readme-stats.vercel.app/api?username=ygworldr&show_icons=true&theme=nord&count_private=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ygworldr&langs_count=7&layout=compact&theme=nord)](https://github.com/ygworldr/github-readme-stats)
+
+![Metrics](https://github.com/ygworldr/ygwrldr/blob/main/github-metrics.svg)
