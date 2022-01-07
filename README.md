@@ -1,10 +1,10 @@
 ### Dr Yann Golanski
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-golanski-99199135/)
+| ![View count](https://komarev.com/ghpvc/?username=ygworldr)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&color=%23623AE1&size=23&center=true&vCenter=true&lines=Director+of+IT+Security+at+Worldr+technologies)](https://git.io/typing-svg)
 
-![View count](https://komarev.com/ghpvc/?username=ygworldr)
 
 I hold a DPhil in theoretical astrophysics and have worked in applied
 mathematical research in Bayesian statistics and game, graph, and optimisation
@@ -22,7 +22,7 @@ robots.
 - 💬 Ask me about all things zero trust or security related.
 - 📫 How to reach me: need to know.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play many FromSoftware games despite being a casual scrub…
+- ⚡ Fun fact: I play many [FromSoftware](https://www.fromsoftware.jp/ww/) games despite being a casual scrub…
 
 ![Yann's GitHub statistics](https://github-readme-stats.vercel.app/api?username=ygworldr&show_icons=true&theme=nord&count_private=true)
 
