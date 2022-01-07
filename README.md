@@ -28,4 +28,4 @@ robots.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ygworldr&langs_count=7&layout=compact&theme=nord)](https://github.com/ygworldr/github-readme-stats)
 
-![Metrics](https://github.com/ygworldr/ygwrldr/blob/main/github-metrics.svg)
+![Metrics](https://github.com/ygworldr/ygworldr/blob/main/github-metrics.svg)
